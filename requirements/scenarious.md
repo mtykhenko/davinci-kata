@@ -34,7 +34,7 @@
 - [Assumption] We will use POS and Fridge api to provide delivery confirmation/fridge inventory update.
 
 ## System Actions
- - [SA1] Get information about purchases from fridges (https://bytetechnology.co/#how-it-works)
+- [SA1] Get information about purchases from fridges (https://bytetechnology.co/#how-it-works)
 - [SA2] Get available inventory from fridges (https://bytetechnology.co/#how-it-works)
 - [Assumption] We assume that we integrate only with one POS system toasttab.
 - [SA3] Get information about purchases from kiosks POS (https://pos.toasttab.com)
@@ -42,11 +42,11 @@
 - [SA5] [TBD] Mark meals as bought in kiost POS online.
 - [SA6] [TBD] Mark product as bought in fridge online.
 - [SA7] Charge customer when its order was confirmed. 
-- [SA8] Notify kitchen when there is need for some meal in certain location.
+- [SA8] Notify kitchen when there is need for some meal in certain location - **To discuss with Uolodymyr**.
 
 ## Questions
 1. What is priority of customers: customer that bought online vs that comes phisically.
 
 ## Internal Questions
-- [SA5] [TBD] Mark meals as bought in kiost POS online.
-- [SA6] [TBD] Mark product as bought in fridge online.
+- Think how to buy online and offline in a fridge/pos ([SA5], [SA6]).
+- Think about 2 directional connection between our system and fridge/pos. For example discounts while buying in a fridge. NOTE: we don't control whole chain.
