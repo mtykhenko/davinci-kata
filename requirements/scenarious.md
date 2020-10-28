@@ -19,10 +19,9 @@
 1. View meals demand.
 1. View inventory in all fridges,kiosks.
 
-## Kitchen Actions
-1. View meals demand for certain day.
+##  Kitchen Actions
 1. Get meals demand, base on consumption and orders from customers.
-1. Register meal for delivery
+1. Register meal/meals for delivery
 
 ## Delivery Service (Company) Actions
 1. Get delivery plan (from what Kitchen to delivery meals,location to deliver, and quantity).
