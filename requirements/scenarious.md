@@ -1,41 +1,41 @@
 # Farmacy Food Scenarios
 
 ## Customer Actions
-1. Use system via web browser.
-1. Use system via web mobile phone.
-1. Login via Facebook,Apple,etc.
-1. Search by different criteria: location,nutritients.
-1. Search meals in nearest Kiosks. 
-1. Search meals in nearest Fridges. --> (swipe credit card,open fridge,take meal)
-1. [TBD] Buy meal via credit card and pickup in Kiosk.
-1. [TBD] Buy meal that is present in Fridge
-1. Apply coupon while paying for order.
+- [CA1] Use system via web browser.
+- [CA2] Use system via web mobile phone.
+- [CA3] Login via Facebook,Apple,etc.
+- [CA4] Search by different criteria: location,nutritients.
+- [CA5] Search meals in nearest Kiosks. 
+- [CA6] Search meals in nearest Fridges. --> (swipe credit card,open fridge,take meal)
+- [CA7] [TBD] Buy meal via credit card and pickup in Kiosk.
+- [CA8] [TBD] Buy meal that is present in Fridge
+- [CA9] Apply coupon while paying for order.
 
 ## POS Person Actions
 
 ## Farmasy Food Manager Actions
-1. Add meals list into system.
-1. [NICE TO HAVE] View sales history in all kiosks,fridges
-1. View meals demand.
-1. View inventory in all fridges,kiosks.
+- [MA1] Add meals list into system.
+- [MA2] [NICE TO HAVE] View sales history in all kiosks,fridges
+- [MA3] View meals demand.
+- [MA4] View inventory in all fridges,kiosks.
 
 ##  Kitchen Actions
-1. Get meals demand, base on consumption and orders from customers.
-1. Register meal/meals for delivery
+- [KA1] Get meals demand, base on consumption and orders from customers.
+- [KA2] Register meal/meals for delivery
 
 ## Delivery Service (Company) Actions
-1. Get delivery plan (from what Kitchen to delivery meals,location to deliver, and quantity).
-1. [TBD] Change inventory level in locations.
+- [DA1] Get delivery plan (from what Kitchen to delivery meals,location to deliver, and quantity).
+- [DA2] [TBD] Change inventory level in locations.
 
 ## System Actions
-1. Get purchase information from fridge (https://bytetechnology.co/#how-it-works)
-1. Get inventory information from fridge (https://bytetechnology.co/#how-it-works)
-1. Get purchase information from kiosk POS (https://pos.toasttab.com)
-1. Get inventory information from kiosk POS (https://pos.toasttab.com)
-1. [TBD] Mark meals as bought in kiost POS online.
-1. [TBD] Mark product as bought in fridge online.
-1. Charge customer when its order was confirmed. 
-1. Notify kitchen when there is need for some meal in certain location.
+ - [SA1] Get purchase information from fridge (https://bytetechnology.co/#how-it-works)
+- [SA2] Get inventory information from fridge (https://bytetechnology.co/#how-it-works)
+- [SA3] Get purchase information from kiosk POS (https://pos.toasttab.com)
+- [SA4] Get inventory information from kiosk POS (https://pos.toasttab.com)
+- [SA5] [TBD] Mark meals as bought in kiost POS online.
+- [SA6] [TBD] Mark product as bought in fridge online.
+- [SA7] Charge customer when its order was confirmed. 
+- [SA8] Notify kitchen when there is need for some meal in certain location.
 
 
 ## Questions
