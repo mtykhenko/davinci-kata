@@ -1,4 +1,4 @@
-# Farmacy Food Scanarious
+# Farmacy Food Scenarious
 
 ## Customer Actions
 1. Use system via web browser.
