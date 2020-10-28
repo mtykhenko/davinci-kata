@@ -1,4 +1,4 @@
-# Farmacy Food Scenarious
+# Farmacy Food Scenarios
 
 ## Customer Actions
 1. Use system via web browser.
