@@ -13,6 +13,8 @@
 - [CA10] Apply subscription for meals delivery.
 - [CA11] Choose to participate in available loyalty program.
 - [CA12] [NICE TO HAVE] Can register using transaction id from POS.
+- [CA13] Provide feedback on items of verified purchases 
+- [CA14] Provide feedback on items in app surveys
 
 ## POS Person Actions
 - [PPA1] Should accept code from application (confirmation that order completed) and give order to customer.
@@ -25,7 +27,8 @@
 - [MA4] View inventory in all fridges,kiosks.
 - [MA5] Provide meals plan for kitchen (Get meals demand, base on consumption and orders from customers)
 - [MA6] Generate regular delivery plan
-
+- [MA7] Analysis of customer feedback 
+- [MA8] Create surveys and send to customers
 ##  Kitchen Actions
 - [KA1] Get meals plan regularly.
 
