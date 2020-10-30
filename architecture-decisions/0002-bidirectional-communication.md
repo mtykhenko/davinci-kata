@@ -1,4 +1,6 @@
-# Bidirectional communication with a fridge and kiosk
+# 2. Bidirectional communication with a fridge and kiosk
+
+Date: 2020-10-29
 
 ## Status
 

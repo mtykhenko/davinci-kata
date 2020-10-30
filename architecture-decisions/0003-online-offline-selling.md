@@ -1,4 +1,6 @@
-# Selling offline and online in a fridge and kiosk
+# 3. Selling offline and online in a fridge and kiosk
+
+Date: 2020-10-29
 
 ## Status
 
