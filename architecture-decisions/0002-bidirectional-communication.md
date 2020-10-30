@@ -5,13 +5,15 @@
 Proposed
 
 ## Context
-We can sell offline and online via smart fridges and kiosks. We operate with fridges via API of cloud based management system, we don't work with fridges directly.
-A customer should be able to use smart fridge without account in our system.
-The user is identified by his/her credit/debit card used to get access to a fridge.
+There are use cases where we need a communication between our system and a fridge/kiosk to be bidirectional. For example applying a coupon during a sell or booking some meal online.<br>
+We need to find an approach how to support this communication.
 
 ## Decision Drivers
-1. Registered user should be able to apply coupons and use promotional pricing.
-2. Fridges and kiosks should support online and offline selling including booking of sold meal until it's taken by the owner.
+1. A customer should be able to use a smart fridge and a kiosk without account in our system.
+2. The user is identified by his/her credit/debit card used to get access to a fridge.
+3. Registered user should be able to apply coupons and use promotional pricing.
+4. Fridges and kiosks should support online and offline selling including booking of sold meal until it's taken by the owner.
+5. We operate with fridges via API of cloud based management system, we may not work with fridges directly.
 
 ## Considered Options
 ### 1. Kiosks and fridges use our software to operate with meals.
