@@ -52,4 +52,3 @@
 
 ## Internal Questions
 - Think how to buy online and offline in a fridge/pos ([SA5], [SA6]).
-- Think about 2 directional connection between our system and fridge/pos. For example discounts while buying in a fridge. NOTE: we don't control whole chain.
