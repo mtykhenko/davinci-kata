@@ -32,7 +32,7 @@ We need to find an approach how to support this communication.
 
 #### Pros
 1. We can add loyality flows in our system after a purchase is made.
-2. Maintenance of fridges and kioks is not our responsibility.
+2. Maintenance of fridges and kiosks is not our responsibility.
 3. We can add any fridge to our system that cloud based management system supports.
 
 #### Cons
