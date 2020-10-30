@@ -49,6 +49,3 @@
 
 ## Questions
 1. What is priority of customers: customer that bought online vs that comes phisically.
-
-## Internal Questions
-- Think how to buy online and offline in a fridge/pos ([SA5], [SA6]).

@@ -40,5 +40,5 @@ We need to find an approach how to support this communication.
 2. Hard to add anything to selling chain since we don't controll it. We can work after a purchase when we take a control.
 
 ## Decision
-Kiosks and fridges use our software to operate with meals.
+Kiosks and fridges use our software to operate with meals.<br>
 Rationale is that we have to support both online and offline selling.
