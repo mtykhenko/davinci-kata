@@ -39,6 +39,6 @@ Refillment schedule is based on online orders and usual demand.
 
 ## Decision
 Operate on prediction of demand, don't book anything.<br>
-Rationale is that we expect high load on ordering system in pick times for the following reasons and this option handles it better:
+Rationale is that we expect high load on ordering system in peak times for the following reasons and this option handles it better:
 - Big disproportion between the number of point of sales and customers (dozens of automated fridges and representative run kiosks, thousands of customers).
 - Customers usually buy food 3 times per day during the same time intervals (we operate in a single time zone).
