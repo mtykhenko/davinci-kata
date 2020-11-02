@@ -6,6 +6,8 @@ Date: 2020-10-29
 
 Proposed
 
+Superceded by [4. Integration with points of sale](0004-integration-with-points-of-sale.md)
+
 ## Context
 There are use cases where we need a communication between our system and a fridge/kiosk to be bidirectional. For example applying a coupon during a sell or booking some meal online.<br>
 We need to find an approach how to support this communication.
