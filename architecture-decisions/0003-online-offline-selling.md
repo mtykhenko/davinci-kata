@@ -4,11 +4,10 @@ Date: 2020-10-29
 
 ## Status
 
-Proposed
+Declined
 
 ## Context
-Our customers should be able to buy some meals online and choose a proper fridge or kiosk, where they will grab meals. Also our customers should be able to buy meals directly in fridges and kiosks.<br>
-There should be an approach to support both ways of selling.
+Our customers should be able to buy meals online and chose a desired point of sale (POS), where they can get their meals. Additionally, our customers should be able to buy meals directly from fridges and kiosks.<br>
 
 ## Decision Drivers
 1. Fridges and kiosks use our software and we control whole selling chain there.

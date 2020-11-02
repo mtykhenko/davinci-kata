@@ -12,7 +12,7 @@ The only problem context team was provided:
 1. Initial session with a problem statement and Q/A section
 2. Transcript from the initial session
 
-No answers on questions submitted by the team have been answered yet
+No answer to questions submitted by the team had been answered yet
 
 ## Decision
 
