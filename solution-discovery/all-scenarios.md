@@ -20,7 +20,7 @@
 - [PPA1] Should accept code from application (confirmation that order completed) and give order to customer.
 - [PPA2] Check local inventory, place order, complete payment , issue receipt and meal.
 
-## Farmasy Food Manager Actions
+## Farmacy Food Manager Actions
 - [MA1] Add meals and/or ingredients list into system.
 - [MA2] [NICE TO HAVE] View sales history in all kiosks,fridges
 - [MA3] View meals demand.

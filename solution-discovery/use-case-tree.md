@@ -1,4 +1,4 @@
-# Use case tree
+# Use cases
 ## All identified use cases
 [Identified scenarios](solution-discovery/scenarios.md)
 
