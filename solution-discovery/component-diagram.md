@@ -16,3 +16,5 @@ Application state storage component has to support multiple concurrent reads and
 ### Auxiliary services 
 We should have dedicated reusable and scalable auxiliary services responsible for technical concerns, e.g. event readers, command writers.
 Ephemeral derived stores provide customized information for various microservices, are easy to create and destroy because of transaction log
+
+Based on ADR [8. Integration between bounded contexts](../architecture-decisions/0008-integration-between-bounded-contexts.md)
