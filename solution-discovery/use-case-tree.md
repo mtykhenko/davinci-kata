@@ -1,6 +1,6 @@
 # Use cases
 ## All identified use cases
-[Identified scenarios](solution-discovery/scenarios.md)
+[Identified scenarios](solution-discovery/all-scenarios.md)
 
 ## Purchasing scenarios
 !["Use case tree"](./images/use-case-diagram.png)

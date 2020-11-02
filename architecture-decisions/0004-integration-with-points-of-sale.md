@@ -26,7 +26,7 @@ Data flow will be bi-directional but newly built system will always act as reque
 ## Consequences
 
 1. As soon as points of sales cant push any information updates, new system should implemented polling refresh of inventory and sales information
-2. Polling inervals should be carefully considered in order to:
+2. Polling intervals should be carefully considered in order to:
 - provide required level of data relevance
 - avoid excessive load onto point of sales
 3. Ordering service should consider potential staleness of inventory information

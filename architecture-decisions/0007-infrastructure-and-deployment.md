@@ -20,4 +20,4 @@ MVP should be based on managed servives as much as possible
 
 ## Consequences
 
-MVP solution built based on managed services of some particular cloud provider will result a vendor lock. Change of Cloud provider can require migration efforts in the future
+MVP solution being built based on managed services of some particular cloud provider can result in a vendor lock. Change of Cloud provider can require migration efforts in the future
