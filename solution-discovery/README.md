@@ -4,7 +4,7 @@ Analyzing requirements and products on the market, team identified a broad list 
 
 1. Requirements
     - [User scenarios](user-scenarios.md)
-        - [Purchase scenarios: use case tree](use-case-tree.md)
+        - [Purchase scenarios: use case tree](purchase-use-case-tree.md)
     - [Non Functional Requirements](nfr.md)
 
 2. [Context diagram](context-diagram.md)
