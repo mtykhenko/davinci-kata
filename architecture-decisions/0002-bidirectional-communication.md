@@ -4,8 +4,6 @@ Date: 2020-10-29
 
 ## Status
 
-Proposed
-
 Superceded by [4. Integration with points of sale](0004-integration-with-points-of-sale.md)
 
 ## Context
