@@ -1,4 +1,8 @@
 # Use case tree
+## All identified use cases
+[Identified scenarios](solution-discovery/scenarios.md)
+
+## Purchasing scenarios
 !["Use case tree"](./images/use-case-diagram.png)
 
 This portion of use cases shows dependencies between various scenarios related to ordering and purchase of meals:
