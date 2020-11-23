@@ -10,12 +10,12 @@ Declined
 Our customers should be able to buy meals online and chose a desired point of sale (POS), where they can get their meals. Additionally, our customers should be able to buy meals directly from fridges and kiosks.<br>
 
 ## Decision Drivers
-1. Fridges and kiosks use our software and we control whole selling chain there.
+1. Fridges and kiosks use our software, and we control whole selling chain there.
 
 ## Considered Options
 ### 1. Book meal online and release it only to the owner offline.
 For example, bar code is marked as booked and can be released only to the owner.
-Kiosk employee or a fridge scans bar code during buying and see that the item is booked. Customer should authenticate himself/herself to recieve a meal.
+Kiosk employee or a fridge scans bar code during buying and see that the item is booked. Customer should authenticate himself/herself to receive a meal.
 
 #### Pros
 1. Execution process is simple.
@@ -26,7 +26,7 @@ Kiosk employee or a fridge scans bar code during buying and see that the item is
 2. When amount of sales is high enough, our system will spend lots of time on achiving consistency of orders.
 
 ### 2. Operate on prediction of demand, don't book anything.
-Fridges and kiosks are refilled regularly. Online orders are made at some point of time in future.<br>
+Fridges and kiosks are re-filled regularly. Online orders are made at some point of time in future.<br>
 Refillment schedule is based on online orders and usual demand.
 
 #### Pros
