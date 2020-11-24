@@ -9,11 +9,12 @@ Materials for architecture kata, Farmacy Food case
 # Solution structure
 
   ## Problem Statement Distilled
-   **Requirements**: [link](./requirements/Requirements.md)
+   
+   - **Requirements**: [link](./requirements/Requirements.md)
 
-   **Business Drivers**: [link](./requirements/Requirements.md)
+   - **Business Drivers**: [link](./requirements/Requirements.md)
 
-   **Context**
+   - **Context**
 
     - **Context Diagram**: [link](./solution-discovery/context-diagram.md)
 
@@ -21,13 +22,13 @@ Materials for architecture kata, Farmacy Food case
 
   ## Proposed Solution
 
-   **Architectural Decision Records**: [link](./architecture-decisions)
+   - **Architectural Decision Records**: [link](./architecture-decisions)
 
-   **Component Diagram**: [link](./solution-discovery/component-diagram.md)
+   - **Component Diagram**: [link](./solution-discovery/component-diagram.md)
    
-   - **Sequnce Diagrams**: [link]
+    - **Sequence Diagrams**: [link]
 
-   **Reference Infrastructure Diagram (AWS)**: [link](./solution-discovery/infrastructure-diagram.md)
+   - **Reference Infrastructure Diagram (AWS)**: [link](./solution-discovery/infrastructure-diagram.md)
 
 
 # Repository structure
