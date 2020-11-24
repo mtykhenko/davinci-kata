@@ -15,9 +15,7 @@ Materials for architecture kata, Farmacy Food case
    - **Business Drivers**: [link](./requirements/Requirements.md)
 
    - **Context**
-
     - **Context Diagram**: [link](./solution-discovery/context-diagram.md)
-
     - **Key Use Cases**
 
   ## Proposed Solution
@@ -26,7 +24,7 @@ Materials for architecture kata, Farmacy Food case
 
    - **Component Diagram**: [link](./solution-discovery/component-diagram.md)
    
-    - **Sequence Diagrams**: [link]
+   - **Sequence Diagrams**: [link]
 
    - **Reference Infrastructure Diagram (AWS)**: [link](./solution-discovery/infrastructure-diagram.md)
 
