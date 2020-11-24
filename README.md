@@ -8,8 +8,8 @@ Materials for architecture kata, Farmacy Food case
 
 # Solution structure
 
-**Problem statement**
-- **Requirements Distilled**: [link](./requirements/Requirements.md)
+**Problem statement Distilled**
+- **Requirements**: [link](./requirements/Requirements.md)
 
 - **Business Drivers**: [link](./requirements/Requirements.md)
 
@@ -19,13 +19,13 @@ Materials for architecture kata, Farmacy Food case
   
   - **Key Use Cases**
 
-**Solution**
+**Proposed Solution**
 
 - **Architectural Decision Records**: [link](./architecture-decisions)
 
 - **Component Diagram**: [link](./solution-discovery/component-diagram.md)
 
-- **Reference Implementation in AWS**: [link](./solution-discovery/infrastructure-diagram.md)
+- **Reference Infrastructure Diagram (AWS)**: [link](./solution-discovery/infrastructure-diagram.md)
 
 # Repository structure
 1. Folder "architecture-decisions": documented decisions made by team
