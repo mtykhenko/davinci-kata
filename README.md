@@ -8,6 +8,7 @@ Materials for architecture kata, Farmacy Food case
 
 # Solution
 **requirements distilled**: [link](./requirements/Requirements.md)
+
 **business drivers**: [link](./requirements/Requirements.md)
   
 
