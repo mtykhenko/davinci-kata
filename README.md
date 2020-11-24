@@ -7,6 +7,7 @@ Materials for architecture kata, Farmacy Food case
 **Members**: Volodymyr, Stepan, Kostiantyn, Oleksandr, Nikolai, Amol, Maksym 
 
 # Solution structure
+
 **Problem statement**
 - **Requirements Distilled**: [link](./requirements/Requirements.md)
 
@@ -16,7 +17,7 @@ Materials for architecture kata, Farmacy Food case
 
   - **Context Diagram**: [link](./solution-discovery/context-diagram.md)
   
-  - **key Use Cases**
+  - **Key Use Cases**
 
 **Solution**
 
@@ -24,7 +25,7 @@ Materials for architecture kata, Farmacy Food case
 
 - **Component Diagram**: [link](./solution-discovery/component-diagram.md)
 
-- **Reference implementation in AWS**: [link](./solution-discovery/infrastructure-diagram.md)
+- **Reference Implementation in AWS**: [link](./solution-discovery/infrastructure-diagram.md)
 
 # Repository structure
 1. Folder "architecture-decisions": documented decisions made by team
