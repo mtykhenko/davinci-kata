@@ -7,7 +7,8 @@ Materials for architecture kata, Farmacy Food case
 **Members**: Volodymyr, Stepan, Kostiantyn, Oleksandr, Nikolai, Amol, Maksym 
 
 # Solution
-**[requirements](./requirements/Requirements.md)
+[**requirements distilled**](./requirements/Requirements.md)
+[**business drivers distilled**](./requirements/Requirements.md)
   
 
 # Repository structure
