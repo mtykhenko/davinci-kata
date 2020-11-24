@@ -1,6 +1,6 @@
 # Solution index
 
-Analyzing requirements and products on the market, team identified a broad list of potential features and user scenarios. However, because of limited time frame and lack of extra details (answers on questions), we decided to limit scope/context to very basic funstions: search, check availability and purchase.
+Analyzing requirements and products on the market, team identified a broad list of potential features and user scenarios. However, because of limited time frame and lack of extra details (answers to questions), we decided to limit scope/context to very basic funstions: search, check availability and purchase.
 
 1. Requirements
     - [User scenarios](user-scenarios.md)
