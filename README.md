@@ -15,6 +15,8 @@ Materials for architecture kata, Farmacy Food case
 
 **component diagram**: [link](./solution-discovery/component-diagram.md)
 
+**architectural decision records**: [link](./architecture-decisions)
+
 # Repository structure
 1. Folder "architecture-decisions": documented decisions made by team
 2. Folder "requirements": raw requirements received from organizers
