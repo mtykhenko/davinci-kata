@@ -11,9 +11,9 @@ Materials for architecture kata, Farmacy Food case
 
 **business drivers**: [link](./requirements/Requirements.md)
 
-**context diagram**: [link] (./solution-discovery/context-diagram.md)
+**context diagram**: [link](./solution-discovery/context-diagram.md)
 
-**component diagram**: [link] (./solution-discovery/component-diagram.md)
+**component diagram**: [link](./solution-discovery/component-diagram.md)
 
 # Repository structure
 1. Folder "architecture-decisions": documented decisions made by team
