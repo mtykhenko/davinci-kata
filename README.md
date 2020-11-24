@@ -6,6 +6,10 @@ Materials for architecture kata, Farmacy Food case
 
 **Members**: Volodymyr, Stepan, Kostiantyn, Oleksandr, Nikolai, Amol, Maksym 
 
+# Solution
+**[requirements](./requirements/Requirements.md)
+  
+
 # Repository structure
 1. Folder "architecture-decisions": documented decisions made by team
 2. Folder "requirements": raw requirements received from organizers
