@@ -8,7 +8,7 @@ Materials for architecture kata, Farmacy Food case
 
 # Solution structure
 
-**Problem statement Distilled**
+*Problem statement Distilled*
 - **Requirements**: [link](./requirements/Requirements.md)
 
 - **Business Drivers**: [link](./requirements/Requirements.md)
@@ -19,7 +19,7 @@ Materials for architecture kata, Farmacy Food case
   
   - **Key Use Cases**
 
-**Proposed Solution**
+*Proposed Solution*
 
 - **Architectural Decision Records**: [link](./architecture-decisions)
 
