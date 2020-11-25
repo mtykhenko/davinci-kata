@@ -30,13 +30,13 @@ A “ghost kitchen” needs a system to allow users to have visibility of what i
 ## Non-Functional Requirements
 
 #### Extensibility
-System should have the possibility to integrate with more POS APIs and allow multiple vendors to offer items through points of sale
+System should have the possibility to integrate with more POS APIs and allow multiple vendors to offer items through points of sale. 
 
 #### Elasticity
-System should sustain different usage patterns, including spikes of demand caused by promos, social events, etc. without degradation of performance
+System should sustain different usage patterns, including spikes of demand caused by promos, social events, etc. without degradation of performance. The system should be able to handle 50-100% spike in usage without needing manual intervention to scale infrastructure.
 
 #### Scalability
-System should be scalable and be able to handle increasing usage with the expansion of business.
+System should be scalable and be able to handle increasing usage with the expansion of business. Should be able to scale up from thousands of users to hundreds of thousands of users.
 
 #### Availability
 System should be highly available and be accessible 24/7.
@@ -53,7 +53,10 @@ Only authenticated users are allowed to access the system.
 Financial transactions have to be performed securely.
 
 #### Performance
-System should support thousands of requests daily, therefore UX operations should take milliseconds to complete.
+- UX operations should take milliseconds to complete.
+- System should be able to handle hundreds of thousands of API calls daily. 
+- All information displayed on the customer's app should be real-time with the databases 
+- The phone application should not crash and display descriptive user-friendly error/exception messages when required.
 
 
 ## Additional Information
@@ -75,4 +78,11 @@ POS Application - [Toast POS](https://pos.toasttab.com)
 Accounting : [Quickbooks](quickbooks.intuit.com)
 <br/>Inventory management, Recipe, Nutrition Analysis : [Cheftec](https://www.cheftec.com/)
 
-
+| S. No. | Requirement                                                                                 | Architectural   Characteristics |             |             |
+|--------|---------------------------------------------------------------------------------------------|:-------------------------------:|:-----------:|:-----------:|
+| 1      | System should have the ability to integrate with several POS and Vendor   systems with time | Extensibility                   |             |             |
+| 2      | Be able to handle increase in demands                                                       | Elasticity                      | Scalability |             |
+| 3      | System should ensure smooth user-experience throughout the application                      | Availability                    | Resiliency  | Performance |
+| 4      | System should securely handle customer information                                          | Security                        |             |             |
+| 5      | System should be able to operate smoothly at varying loads                                  | Performance                     | Elasticity  | Resiliency  |
+| 6      | System should operate on a limited budget                                                   | Cost efficiency                 |             |             |
