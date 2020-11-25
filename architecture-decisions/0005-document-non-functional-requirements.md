@@ -12,4 +12,4 @@ Non functional requirements (NFRs) are important part of a solution and should b
 
 ## Decision
 
-Document all NRFs in file: [Non function requirements](../solution-discovery/nfr.md)
+Document all NRFs in file: [Non function requirements](../solution-discovery/Architecture%20Characteristics.md)

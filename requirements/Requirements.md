@@ -78,11 +78,4 @@ POS Application - [Toast POS](https://pos.toasttab.com)
 Accounting : [Quickbooks](quickbooks.intuit.com)
 <br/>Inventory management, Recipe, Nutrition Analysis : [Cheftec](https://www.cheftec.com/)
 
-| S. No. | Requirement                                                                                 | Architectural   Characteristics |             |             |
-|--------|---------------------------------------------------------------------------------------------|:-------------------------------:|:-----------:|:-----------:|
-| 1      | System should have the ability to integrate with several POS and Vendor   systems with time | Extensibility                   |             |             |
-| 2      | Be able to handle increase in demands                                                       | Elasticity                      | Scalability |             |
-| 3      | System should ensure smooth user-experience throughout the application                      | Availability                    | Resiliency  | Performance |
-| 4      | System should securely handle customer information                                          | Security                        |             |             |
-| 5      | System should be able to operate smoothly at varying loads                                  | Performance                     | Elasticity  | Resiliency  |
-| 6      | System should operate on a limited budget                                                   | Cost efficiency                 |             |             |
+                                        | Cost efficiency                 |             |             |
