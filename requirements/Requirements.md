@@ -78,4 +78,4 @@ POS Application - [Toast POS](https://pos.toasttab.com)
 Accounting : [Quickbooks](quickbooks.intuit.com)
 <br/>Inventory management, Recipe, Nutrition Analysis : [Cheftec](https://www.cheftec.com/)
 
-                                        | Cost efficiency                 |             |             |
+                                        

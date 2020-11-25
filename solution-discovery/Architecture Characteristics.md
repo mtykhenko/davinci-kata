@@ -9,4 +9,4 @@ As per the [requirements](https://github.com/mtykhenko/davinci-kata/blob/master/
 | 3      | System should ensure smooth user-experience throughout the application                      | Availability                    | Resiliency  | Performance |
 | 4      | System should securely handle customer information                                          | Security                        |             |             |
 | 5      | System should be able to operate smoothly at varying loads                                  | Performance                     | Elasticity  | Resiliency  |
-| 6      | System should operate on a limited budget           
+| 6      | System should operate on a limited budget           | Cost efficiency                 |             |             |
