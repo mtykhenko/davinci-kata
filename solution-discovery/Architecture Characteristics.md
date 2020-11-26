@@ -10,3 +10,6 @@ As per the [requirements](https://github.com/mtykhenko/davinci-kata/blob/master/
 | 4      | System should securely handle customer information                                          | Security                        |             |             |
 | 5      | System should be able to operate smoothly at varying loads                                  | Performance                     | Elasticity  | Resiliency  |
 | 6      | System should operate on a limited budget           | Cost efficiency                 |             |             |
+| 7      | System should be agile and flexible to changes          | Interoperability                 |     Evolvability        |       Agility      |
+
+The above architecture characteristics make it ideal to use an **event-based microservices** architecture for the system.

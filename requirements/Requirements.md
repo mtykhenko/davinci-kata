@@ -41,16 +41,26 @@ System should be scalable and be able to handle increasing usage with the expans
 #### Availability
 System should be highly available and be accessible 24/7.
 
+#### Interoperability
+Independently-developed components of the system must have the ability to interact, cooperate and exchange data.
+
 #### Resiliency
 System should be fault-tolerant and continue to operate with reduced functionality in case of outage of certain components. E.g.: in case Fridge Cloud API is down, it should be still possible to place an order and/or buy at Kiosk.
 
 #### Cost efficiency
 Solution should be cost-efficient and should ensure optimal usage of resources at any load.
 
+#### Evolvability 
+Different components of the system should be evolvable without affecting the rest of the system. For example, if payments service needs a re-design/update, the rest of the components of the system should not be impacted by that change.
+
+#### Agility
+Since this is a growing start-up, technology needs are likely to change with business needs. The system should have the agility to implement quick changes.
+
 #### Security
-All the data should be encrypted at rest and in transit.
-Only authenticated users are allowed to access the system.
-Financial transactions have to be performed securely.
+
+- All the data should be encrypted at rest and in transit.
+- Only authenticated users are allowed to access the system.
+- Financial transactions have to be performed securely. PCI regulatory requirements for payments' data should be satisfied
 
 #### Performance
 - UX operations should take milliseconds to complete.
