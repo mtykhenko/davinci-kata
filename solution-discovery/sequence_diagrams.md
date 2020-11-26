@@ -1,6 +1,6 @@
 # Sequence diagram
 
-##Inventory/Purchase updates flow
+## Inventory/Purchase updates flow
 !["Component diagram"](./images/us_purchase-inventory_feed_flow.png)
 ### Quick Summary
 Flow starts from retrieving data (inventory state,purchases) from external point of sale api (fridge,kiosk). _**`[navigation elements 1,2,3,4]`**_  
