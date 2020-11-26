@@ -8,4 +8,5 @@ Received data is transformed to standardised format that is known to Farmacy Foo
 Data flow is distributed into two directions _**`[navigation elements 7,8,9]`**_
  - notify a kitchen with inventory and purchase updates _**`[navigation elements 10]`**_
  - save current state to inventory database, for further search usage _**`[navigation elements 11]`**_
-##Order processing flow
+
+## Order processing flow
