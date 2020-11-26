@@ -24,7 +24,7 @@ Materials for architecture kata, Farmacy Food case
 
    - **Component Diagram**: [link](./solution-discovery/component-diagram.md)
    
-   - **Sequence Diagrams**: [link]
+   - **Sequence Diagrams**: [link](./solution-discovery/sequence_diagrams.md)
 
    - **Reference Infrastructure Diagram (AWS)**: [link](./solution-discovery/infrastructure-diagram.md)
 
