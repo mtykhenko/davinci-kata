@@ -18,7 +18,7 @@ Materials for architecture kata, Farmacy Food case
    
    - **Context**   
       - Context Diagram: [link](./solution-discovery/context-diagram.md)    
-      - Key Use Cases:
+      - Key Use Cases: [link](./solution-discovery/user-scenarios.md)
 
   ## Proposed Solution
 
