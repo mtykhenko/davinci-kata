@@ -13,7 +13,9 @@ Materials for architecture kata, Farmacy Food case
    - **Requirements**: [link](./requirements/Requirements.md)
 
    - **Business Drivers**: [link](./requirements/Requirements.md)
-
+   
+   - **Benefit Dependency Network**: [link](./solution-discovery/benefit_dependency_network.md)
+   
    - **Context**   
       - Context Diagram: [link](./solution-discovery/context-diagram.md)    
       - Key Use Cases:
