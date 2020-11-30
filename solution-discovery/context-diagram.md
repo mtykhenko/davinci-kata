@@ -43,5 +43,5 @@ New system should send inventory updates to the central kitchen.
 > Requirement: Send inventory updates to central kitchen
 
 ## Container diagram
-One level zoom in on a container digram shows a bit more details
+One level zoom in on a container diagram shows a bit more details
 !["Container diagram"](./images/farmacy-food-container-diagram.png)
