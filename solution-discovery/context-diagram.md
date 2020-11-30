@@ -42,3 +42,6 @@ New system should send inventory updates to the central kitchen.
 **Assumption**: central kitchen is the source of up-to-date meals inventory. New system should be able to pull it using some API
 > Requirement: Send inventory updates to central kitchen
 
+## Container diagram
+One level zoom in on a container digram shows a bit more details
+!["Container diagram"](./images/farmacy-food-container-diagram.png)
