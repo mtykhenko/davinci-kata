@@ -4,7 +4,7 @@ Materials for architecture kata, Farmacy Food case
 # Team 
 **Name**: DaVinci
 
-**Members**: Volodymyr, Stepan, Kostiantyn, Oleksandr, Nikolai, Amol, Maksym 
+**Members**: Volodymyr, Oleksandr, Amol, Maksym 
 
 # Solution structure
 
