@@ -21,6 +21,8 @@ Materials for architecture kata, Farmacy Food case
       - Key Use Cases: [link](./solution-discovery/user-scenarios.md)
 
   ## Proposed Solution
+   !["System diagram"](./solution-discovery/images/farmacy-food-system-architecture-diagram.png)
+
 
    - **Architectural Decision Records**: [link](./architecture-decisions)
 
