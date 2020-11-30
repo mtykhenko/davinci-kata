@@ -5,11 +5,11 @@
 - [CA2] Use system via mobile phone.
 - [CA3] Login via Facebook,Apple,etc.
 - [CA4] Search by different criteria: location,nutritients.
-- [CA5] Search meals in nearest Kiosks. 
-- [CA6] Search meals in nearest Fridges.
+- [CA5] Search meals in the nearest Kiosks. 
+- [CA6] Search meals in the nearest Fridges.
 - [CA7] Buy meal via credit card and pickup in Kiosk.
 - [CA8] Buy meal via credit card that is present in Fridge.
-- [CA9] Apply coupon while paying for order.
+- [CA9] Apply coupons while paying for order.
 - [CA10] Apply subscription for meals delivery.
 - [CA11] Choose to participate in available loyalty program.
 - [CA12] Provide feedback on items of verified purchases 

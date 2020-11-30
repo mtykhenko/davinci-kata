@@ -5,7 +5,7 @@
 
 ## Highlights
 ### Application services
-Application logic is implemented with microservices each focusing on particular sub domain. This gives us extensibility which is the key requirements for Farmacy Food apllication. 
+Application logic is implemented with microservices each focusing on particular sub domain. This gives us extensibility which is the key requirements for Farmacy Food application. 
 
 ### External integrations
 Integration with external components is implemented with API calls. Dedicated microservices are responsible for integration with different external bounded contexts.
