@@ -9,14 +9,14 @@ Accepted
 ## Context
 
 During initial session with a customer deployment to the Cloud was announced as a desired option.
-From another side, project budjet is limited which means:
+From another side, project budget is limited which means:
 - upfront infrastructure costs are undesired
 - infrastructure management should be cheap
 
 ## Decision
 
 Solution should be designed for one of major cloud providers
-MVP should be based on managed servives as much as possible
+MVP should be based on managed services as much as possible
 
 ## Consequences
 

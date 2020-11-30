@@ -21,7 +21,7 @@
 > Requirement: Mobile and Web accessible
 
 2. **3rd party authentication** is one of extra requirements. 
-> New system should integrate with 3rd party authentication providers like Goodle, Facebook, Apple, etc.
+> New system should integrate with 3rd party authentication providers like Google, Facebook, Apple, etc.
 
 3. **Smart Fridges** are accessible via Cloud API. New system should be able to fetch inventory/sales information and post online orders. According to requirements and [Fridge specs](../requirements/Farmacy%20Food%20Smartfridge%20Apt%20Brief.pdf), Cloud API should support all scenarios
 > Requirements: 

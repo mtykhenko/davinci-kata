@@ -21,8 +21,8 @@ We need to find an approach how to support this communication.
 ### 1. Kiosks and fridges use our software to operate with meals.
 
 #### Pros
-1. We fully controll whole selling chain and have a freedom to change anything in this chain.
-2. We can easily add loyality flows and online and offline selling since we control the chain.
+1. We fully control whole selling chain and have the freedom to change anything in this chain.
+2. We can easily add loyalty flows and online and offline selling since we control the chain.
 
 #### Cons
 1. Complex and expensive onboarding process for new fridges and kiosks.
@@ -33,13 +33,13 @@ We need to find an approach how to support this communication.
 ### 2. Kiosks and fridges don't use our software to operate with meals.
 
 #### Pros
-1. We can add loyality flows in our system after a purchase is made.
+1. We can add loyalty flows in our system after a purchase is made.
 2. Maintenance of fridges and kiosks is not our responsibility.
 3. We can add any fridge to our system that cloud based management system supports.
 
 #### Cons
 1. We cannot support online selling.
-2. Hard to add anything to selling chain since we don't controll it. We can work after a purchase when we take a control.
+2. Hard to add anything to selling chain since we don't control it. We can work after a purchase when we take a control.
 
 ## Decision
 Kiosks and fridges use our software to operate with meals.<br>
